@@ -1,1 +1,3 @@
 aaa.txt   v1
+bbb.txt   v2
+branch v3
